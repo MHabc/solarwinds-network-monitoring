@@ -1,0 +1,22 @@
+Aug 18 22:16:11.605 HYPERVISOR: Release 0.2.17-x86/Windows (tag 2017072410)
+Aug 18 22:16:11.605 HYPERVISOR: Started on IP = localhost, TCP port = 60476.
+Aug 18 22:16:12.000 HYPERVISOR: exec_cmd: hypervisor version 
+Aug 18 22:16:12.000 HYPERVISOR: exec_cmd: hypervisor working_dir C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\solarwind\gns3_project\project-files\dynamips 
+Aug 18 22:16:12.000 GENERAL: working_dir=C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\solarwind\gns3_project\project-files\dynamips
+Aug 18 22:16:12.000 HYPERVISOR: exec_cmd: hypervisor working_dir C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\solarwind\gns3_project\project-files\dynamips\42a446e0-4d27-4b6a-bc57-106dc5f172ef 
+Aug 18 22:16:12.000 GENERAL: working_dir=C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\solarwind\gns3_project\project-files\dynamips\42a446e0-4d27-4b6a-bc57-106dc5f172ef
+Aug 18 22:16:12.000 HYPERVISOR: exec_cmd: vm create R1 1 c3600 
+Aug 18 22:16:12.000 VM: VM R1 created.
+Aug 18 22:16:12.000 HYPERVISOR: exec_cmd: vm set_con_tcp_port R1 5000 
+Aug 18 22:16:12.000 HYPERVISOR: exec_cmd: c3600 get_mac_addr R1 
+Aug 18 22:16:12.000 HYPERVISOR: exec_cmd: c3600 set_chassis R1 3660 
+Aug 18 22:16:12.000 HYPERVISOR: exec_cmd: vm set_exec_area R1 64 
+Aug 18 22:16:12.014 HYPERVISOR: exec_cmd: vm get_status R1 
+Aug 18 22:16:12.014 HYPERVISOR: exec_cmd: vm set_idle_pc R1 0x606071f8 
+Aug 18 22:16:13.419 HYPERVISOR: exec_cmd: vm get_status R1 
+Aug 18 22:16:13.419 HYPERVISOR: exec_cmd: vm extract_config R1 
+Aug 18 22:16:13.419 HYPERVISOR: exec_cmd: vm delete R1 
+Aug 18 22:16:13.419 VM: VM R1 destroyed.
+Aug 18 22:16:13.424 HYPERVISOR: exec_cmd: hypervisor stop 
+Aug 18 22:16:13.514 HYPERVISOR: Stopped.
+Aug 18 22:16:13.514 GENERAL: reset done.
