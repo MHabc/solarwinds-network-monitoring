@@ -31,9 +31,13 @@
 ## 🧪 Implemented Features
 
 - Monitoring of network device performance (CPU, RAM, availability)
+
 - Alerts for connectivity loss and resource overload
+
 - Centralized management of multiple network nodes from a single dashboard
+  
 - Real-time performance charting and visualization
+  
 - Scheduled reports and detailed statistics
 
 ---
@@ -43,13 +47,19 @@
 <p align="">
   <strong>SolarWinds Dashboards:</strong><br>
 
+
   ![DB](https://github.com/MHabc/solarwinds-network-monitoring/blob/master/Picture2.png)
 
+
   <strong>Alert Configuration:</strong><br>
+  
   ![alert](https://github.com/MHabc/solarwinds-network-monitoring/blob/master/Picture3.png)
 
+
   <strong>Simulated Topology on GNS3:</strong><br>
+  
   ![topology](https://github.com/MHabc/solarwinds-network-monitoring/blob/master/Picture1.png)
+  
 </p>
 
 ---
